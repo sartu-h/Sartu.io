@@ -1,9 +1,9 @@
-title: Rishabh Agarwal # your name (or website title) here
+title: Sartu Hussein # your name (or website title) here
 logo: "/images/my_pic.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Aspiring software engineer looking for enhanced real-world experience. Has experience with data-oriented programming, computational architecture, and machine learning and is eager to learn more through an internship
+  My name is Sartu Hussein and I'm currently going for my Bachelor's in Comp Sci. I'm looking for hands on oppurtunities where I can apply my tech skills in the field.
   <br><br>
-  <a href="https://www.linkedin.com/in/rishabh-agarwal-a5b78121b">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/sartu-hussein">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
