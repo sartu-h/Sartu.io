@@ -15,12 +15,12 @@
 
 ## Projects
 
-### Project 1: Drone Delivery System Simulation
+### Project 1: Bills
 - Designed a Drone Simulation utilizing the Singleton and Factory design pattern for seamless data collection analysis, developing a battery charging system to dynamically create and manage charging stations for drones.
 <br/>
 - Implemented aspects of software development activities, including design, coding, code review, testing, bug fixing, and code/API documentation utilizing Google documentation conventions.
 <!-- <img src="images/omnistudy.png" height="300" width="500"/><br/> -->
-[GitHub Repository](https://github.com/omnistudy-ai/omnistudy-test)
+[[GitHub Repository](https://github.com/omnistudy-ai/omnistudy-test)](https://github.com/sartu-h/Bills)
 
 ---
 
